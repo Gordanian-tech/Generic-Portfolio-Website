@@ -7,8 +7,7 @@ Open index.html in your browser
 
 💻 Technologies
 
-HTML/CSS
-JavaScript
+HTML
 
 
 MIT License
