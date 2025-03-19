@@ -1,6 +1,6 @@
-🌐 My Website
-✨ A personal website showcasing my portfolio and projects.
-🚀 Setup
+🌐 My Website</a>
+✨ A personal website showcasing my portfolio and projects.</a>
+🚀 Setup</a>
 
 Clone the repository
 Open index.html in your browser
